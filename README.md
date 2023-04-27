@@ -21,6 +21,7 @@ Yours truly
 ## How to run on MacOS
 
 - brew install sfml
+- Download code and navigate to COP-Final-Project-Code
 - g++ main.cpp game_classes.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -std=c++17
 - ./a.out
 
