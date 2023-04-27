@@ -28,4 +28,4 @@ Yours truly
 
 ## C++ Class member UML's
 
-<img width="867" alt="image" src="https://user-images.githubusercontent.com/122639149/234980038-f1604e23-1d01-454c-866e-e23ce8414138.png">
+<img width="433" alt="image" src="https://user-images.githubusercontent.com/122639149/234980038-f1604e23-1d01-454c-866e-e23ce8414138.png">
