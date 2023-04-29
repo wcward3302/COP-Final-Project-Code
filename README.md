@@ -25,7 +25,3 @@ Yours truly
 - g++ main.cpp game_classes.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -std=c++17
 - ./a.out
 
-
-## C++ Class member UML's
-
-<img width="433" alt="image" src="https://user-images.githubusercontent.com/122639149/234980038-f1604e23-1d01-454c-866e-e23ce8414138.png">
