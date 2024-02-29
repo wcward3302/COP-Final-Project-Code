@@ -1,5 +1,6 @@
 # COP-project-game
 Small time, not overly complex, basic game using C++ and SFML
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{wcward3302}/{COP-Final-Project-Code}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{wcward3302}/{COP-final-Project-Code})
 
 ![game_sample](https://user-images.githubusercontent.com/122639149/234976748-88022279-8526-4e2a-be4b-b4431323bdfe.gif)
 
