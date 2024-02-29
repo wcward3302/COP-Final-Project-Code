@@ -4,7 +4,11 @@ Small time, not overly complex, basic game using C++ and SFML
 ![game_sample](https://user-images.githubusercontent.com/122639149/234976748-88022279-8526-4e2a-be4b-b4431323bdfe.gif)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{wcward3302}/{COP-Final-Project-Code}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{wcward3302}/{COP-Final-Project-Code})
+=======
+## For: COP-3003 course project
+>>>>>>> parent of 117c4e9 (Update README.md)
 =======
 ## For: COP-3003 course project
 >>>>>>> parent of 117c4e9 (Update README.md)
